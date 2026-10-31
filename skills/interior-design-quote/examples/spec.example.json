@@ -1,0 +1,17 @@
+{
+  "quote_ref": "DQ-2026-001",
+  "date": "2026-01-15",
+  "client_name": "عميل تجريبي",
+  "client_honorific": "الأستاذ",
+  "client_closing": "المحترم",
+  "scope_types_text": "التصميم الداخلي والديكور واللاندسكيب",
+  "spaces_text": "مجلس الضيوف – صالة المعيشة – الحديقة الخلفية",
+  "contract_duration_days": 40,
+  "items": [
+    {"type": "interior_residential", "quantity": 300},
+    {"type": "landscape", "quantity": 150}
+  ],
+  "modification_fee": 1000,
+  "modification_extra_days": 5,
+  "payment_split_percent": [60, 30, 10]
+}
