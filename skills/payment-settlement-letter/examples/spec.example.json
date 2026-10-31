@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-15",
+  "payment_number": 2,
+  "payment_amount": 30000,
+  "fee_percent": 15,
+  "project": "عميل تجريبي – المدينة – حي المثال",
+  "client_name": "عميل تجريبي",
+  "expenses": [
+    {"desc": "توريد وتركيب أعمال السباكة", "amount": 9500},
+    {"desc": "أعمال الكهرباء والتأسيس", "amount": 7200},
+    {"desc": "عمالة وأجور فنيين", "amount": 6300}
+  ],
+  "previous_payments": [
+    {"num": 1, "amount": 30000, "fee": 3913.04, "expenses": 24800, "net": 1286.96, "balance": 1286.96}
+  ]
+}
