@@ -1,0 +1,15 @@
+{
+  "quote_ref": "Q-2026-001",
+  "date": "2026-01-15",
+  "validity_days": 30,
+  "project_name": "فيلا سكنية – مشروع تجريبي",
+  "client_name": "الأستاذ عميل تجريبي",
+  "project_location": "حي المثال، المدينة",
+  "floors": ["الدور الأرضي", "الدور الأول", "الملحق العلوي"],
+  "area_m2": 700,
+  "rate_per_m2": 500,
+  "vat_percent": 15,
+  "advance_pct": 20,
+  "foundation_pct": 20,
+  "final_pct": 10
+}
